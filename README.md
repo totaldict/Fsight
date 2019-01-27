@@ -7,4 +7,4 @@ test for Fsight
 - Report3DepositDynamic.xlsx
 - Report4ForecastLineTrendSes.xlsx
 
-Всё это плюс БД для SQLExpress, с которой работает - ищи в этом репозитории файл ДОПОЛНЕНИЕ.zip!
+Всё это плюс БД для SQLExpress(бэкап fsight.bak), с которой работает - ищи в этом репозитории файл ДОПОЛНЕНИЕ.zip!
